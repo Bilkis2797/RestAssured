@@ -1,0 +1,7 @@
+{
+    "name" : "Amazing Pillow created",
+    "price" : "999",
+    "description" : "The best pillow for amazing QA's.",
+    "category_id" : 2,
+    "category_name": "Electronics"
+}
